@@ -1,6 +1,6 @@
 __Mused-AI-enabled-music-app__
 
-This is a __Flask based__ webapp that lets the user to do the following- 
+This is a __Flask based__ webapp that lets the user do the following- 
 * Make Karaoke version of the song
 * Make the song ambisonic or 8D in nature
 * Split all the instruments and vocal components
