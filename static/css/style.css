@@ -1,0 +1,14 @@
+.top-nav {
+    background-color: rgb(15, 14, 14);
+    color: #fff;
+    font-size: 20px;
+    display: flex;
+}
+
+.logo {
+    transition: all 0.2s ease;
+    padding: 15px;
+    display: flex;
+    width: 50px;
+    opacity: 0.9;
+}
