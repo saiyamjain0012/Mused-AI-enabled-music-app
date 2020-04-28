@@ -1,4 +1,3 @@
-Mused-AI-enabled-music-app
 __Mused-AI-enabled-music-app__
 
 This is a __Flask based__ webapp that lets the user to do the following- 
