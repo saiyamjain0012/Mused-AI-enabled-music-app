@@ -3,7 +3,7 @@ librosa==0.6.3
 requests==2.23.0
 norbert==0.2.1
 importlib_resources==1.4.0
-numpy==1.18.1
+numpy==1.22.0
 pytube3==9.6.4
 pydub==0.23.1
 tensorflow==1.14.0
