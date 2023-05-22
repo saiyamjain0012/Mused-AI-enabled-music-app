@@ -1,6 +1,6 @@
 scipy==1.4.1
 librosa==0.6.3
-requests==2.23.0
+requests==2.31.0
 norbert==0.2.1
 importlib_resources==1.4.0
 numpy==1.18.1
